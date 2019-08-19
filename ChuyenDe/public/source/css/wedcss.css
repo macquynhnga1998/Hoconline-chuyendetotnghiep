@@ -1,0 +1,18 @@
+.homnay {
+  color: #333333;
+  text-align: center;
+  border: 1px solid black; }
+
+.row {
+  margin-top: 10px;
+  margin-bottom: 10px; }
+  .row .xxx {
+    margin-bottom: 10px; }
+    .row .xxx .kinang {
+      text-align: center;
+      width: 80%;
+      height: 100px;
+      background: red;
+      border-radius: 20px; }
+
+/*# sourceMappingURL=wedcss.css.map */

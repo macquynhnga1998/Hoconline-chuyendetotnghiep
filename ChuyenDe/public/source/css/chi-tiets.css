@@ -1,0 +1,92 @@
+.top-dad {
+  background: #09788f; }
+  .top-dad .top {
+    padding-top: 30px;
+    padding-left: 0;
+    padding-right: 0; }
+    .top-dad .top .tieude h1 {
+      font-weight: bold;
+      color: white; }
+    .top-dad .top .gioithieu {
+      margin-top: 20px;
+      font-size: 16px;
+      color: white;
+      padding: 0; }
+    .top-dad .top .anh-dai-dien {
+      margin-top: 20px;
+      height: 50px;
+      padding: 0; }
+      .top-dad .top .anh-dai-dien img {
+        width: 36px;
+        height: 36px;
+        border-radius: 18px; }
+      .top-dad .top .anh-dai-dien a {
+        color: white;
+        font-weight: bold;
+        padding-left: 10px; }
+
+.noidung {
+  margin-top: 20px;
+  padding: 0; }
+  .noidung .video-gioi-thieu {
+    padding: 0px; }
+  .noidung .tai-khoa-hoc .box {
+    position: none;
+    width: 80%;
+    border: 1px solid #d7d7d7;
+    border-radius: 5px;
+    padding-top: 10px; }
+    .noidung .tai-khoa-hoc .box i {
+      margin-right: 10px; }
+    .noidung .tai-khoa-hoc .box .btn {
+      width: 100%;
+      font-weight: bold;
+      font-size: 26px;
+      background: red;
+      border-radius: 15px; }
+    .noidung .tai-khoa-hoc .box .btn-giohang {
+      background: white;
+      border: 1px solid black;
+      margin-top: 10px; }
+    .noidung .tai-khoa-hoc .box p {
+      margin-top: 10px; }
+      .noidung .tai-khoa-hoc .box p span {
+        font-weight: bold; }
+  .noidung .gioi-thieu-khoa-hoc {
+    margin-top: 30px;
+    border-radius: 5px;
+    border: 1px solid #d7d7d7;
+    padding: 0; }
+    .noidung .gioi-thieu-khoa-hoc h4 {
+      padding-left: 20px;
+      padding-bottom: 20px;
+      margin: 0;
+      font-weight: bold; }
+    .noidung .gioi-thieu-khoa-hoc p {
+      font-size: 13pt;
+      padding-left: 20px;
+      padding-right: 20px;
+      line-height: 30px; }
+  .noidung .noi-dung-khoa-hoc ul {
+    list-style: none;
+    padding: 0; }
+    .noidung .noi-dung-khoa-hoc ul a {
+      color: #333333;
+      text-decoration: none; }
+    .noidung .noi-dung-khoa-hoc ul li {
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 5px;
+      border: 1px solid #d7d7d7;
+      border-radius: 5px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-background-color: red; }
+      .noidung .noi-dung-khoa-hoc ul li i {
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-font-size: 10px; }
+
+
+
+/*# sourceMappingURL=chi-tiet.css.map */

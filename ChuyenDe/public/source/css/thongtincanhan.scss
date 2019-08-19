@@ -1,0 +1,54 @@
+.menuttcn{
+	font-size: 12pt;
+	list-style: none;
+	padding:0;
+	margin: 0;
+	text-align: left;
+	float:right;
+	
+ 
+	&:hover .menucon{
+		display: block;
+		}
+	li{
+			min-width: 140px;
+			display: inline-table;
+			height: 40px;
+			line-height: 40px;
+			position: relative;
+			padding:{
+		left: 5px;
+		right: 5px;
+	}
+			a{
+				text-decoration: none;
+				display: block;
+				color:black;
+			}	
+	}
+	.menucon{
+		box-shadow: 2px 5px #888888;
+		background:white;
+		box-shadow: black;
+		padding: 0;
+		margin: 0;
+		position: absolute;
+		list-style: none;	
+		display: none;
+		z-index: 1;
+		border-radius: 0px 0px 5px 5px;
+		border:1px solid #ccc;
+		border-top: none;	
+		li{
+			padding:{
+			left: 5px;
+			right: 5px;
+			}
+				display: block;
+			border-bottom:1px solid #ccc;
+			&:hover {
+				background:#00000059;
+			}
+		}
+	}
+}

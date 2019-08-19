@@ -1,0 +1,170 @@
+.top-dad
+{
+	background:#09788f;
+	.top{
+		padding:{
+
+		top:30px;
+		left: 0;
+		right: 0;
+		}
+		.tieude{
+			h1{
+				font-weight: bold;
+				color: white;
+			}
+		}
+		.gioithieu{
+			margin-top:20px;
+			font-size: 16px;
+			color: white;
+			padding: 0;
+		}
+
+		.anh-dai-dien{
+			margin-top:20px;
+			height: 50px;
+			padding: 0;
+			img{
+				width: 36px;
+				height: 36px;
+				border-radius:18px;
+			}
+			a{
+				color: white;
+				font-weight: bold;
+				padding-left:10px;
+			}
+
+		}
+	}
+
+}
+
+.noidung{
+
+		margin-top: 20px;
+		padding: 0;
+		.video-gioi-thieu
+		{
+			padding: 0px;
+		}
+		.tai-khoa-hoc{
+			
+
+			.box{
+				position:none;
+				width: 80%;
+				border: 1px solid #d7d7d7;
+				border-radius:5px;
+				padding-top: 10px;
+				i{
+						margin-right: 10px;
+					}
+				.btnx{
+					width: 100%;
+					
+					font-weight: bold;
+					font-size: 26px;
+					background: red;
+					border-radius: 15px;
+
+				}
+				.btn-giohang{
+					background: white;
+					border: 1px solid black;
+					margin-top: 10px;
+				}
+				p{
+					margin-top: 10px;
+					span{
+						font-weight: bold;
+					}
+				}
+			}
+
+			
+		}
+		
+
+
+		
+
+
+			.gioi-thieu-khoa-hoc{
+				margin-top:30px;
+				border-radius: 5px; 
+				border: 1px solid #d7d7d7;
+				padding: 0;
+				h4{
+					padding-left: 20px;
+					padding-bottom:20px;
+					margin: 0;
+					
+					font-weight: bold;
+				}
+				p{
+					font-size: 13pt;
+					padding-left: 20px;
+					padding-right: 20px;
+					line-height: 30px;
+				}
+			}
+
+			.noi-dung-khoa-hoc{
+				//padding:{
+				//	left: 20px;
+				//	right: 20px;
+				//};
+				ul {
+
+					a{
+						color: #333333;
+   						text-decoration: none;
+					}
+					list-style: none;
+					padding: 0;
+					li{
+						margin:{
+							left: 20px;
+							right: 20px;
+						};
+						i{
+							margin:{
+								left: 5px;
+								right: 5px;
+								font-size: 10px;
+							};
+						}
+
+					
+					margin-top: 5px;
+					border:1px solid #d7d7d7;
+					border-radius: 5px;
+					padding: {
+					top:10px;
+					bottom: 10px;
+					background-color: red;
+					
+							}
+
+				}
+
+
+					}
+
+			}
+
+
+		
+	}
+
+	.fas{
+
+		font-size: 20pt;
+		color:white;
+	}
+
+
+	
+

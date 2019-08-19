@@ -1,0 +1,218 @@
+/* head */
+.btn-login {
+    border: none;
+    outline: none;
+}
+
+.btn-login:hover {
+    background: none;
+}
+
+.btn-login span:hover {
+    color: #df7373;
+}
+
+.hr {
+    margin-bottom: 1px;
+    margin-top: 12px;
+}
+
+.box-menu {
+    border: none;
+    outline: none;
+    background: none;
+}
+
+ul li img {
+    height: 18px;
+    margin-right: 5px;
+    margin-top: -3px;
+}
+
+.menu ul li a {
+    font-size: 14px;
+}
+
+.menu ul li a span:hover {
+    color: #df7373;
+}
+
+.underline {
+    margin-top: -19px;
+    height: 1px;
+    background: rgb(255, 81, 0);
+}
+
+.body-box {
+    padding-top: 20px;
+    background: whitesmoke;
+    padding-bottom: 20px;
+}
+
+.mini-menu li a:hover {
+    color: #df7373;
+}
+
+.mini-news:hover span {
+    color: #df7373;
+}
+
+.mini-news:hover img {
+    opacity: 0.7;
+}
+
+.mini-new {
+    background: white;
+}
+
+.list-news:hover span {
+    color: #df7373;
+}
+
+.list-news:hover img {
+    opacity: 0.7;
+}
+
+.list-news h4 {
+    font-weight: bold;
+}
+
+.box-menu-mini {
+    padding: 0;
+    border-left: 1px solid #80808029;
+    border-top: 1px solid #80808029;
+    border-bottom: 1px solid #80808029;
+    height: 400px;
+}
+
+.box-slide-show {
+    padding: 0;
+    height: 400px;
+    border: 0.5px solid #80808029;
+}
+
+.box-news {
+    border-right: 1px solid #80808029;
+    height: 400px;
+    border-top: 1px solid #80808029;
+    border-bottom: 1px solid #80808029;
+}
+
+.list-boxNews {
+    background: white;
+    height: 414px;
+    text-align: center;
+}
+
+.box-img {
+    height: 160px;
+}
+
+.list-news img {
+    width: 320px;
+    height: 160px;
+}
+
+.list-img:hover img {
+    opacity: 0.8;
+}
+
+.list-img:hover .card-body p {
+    color: #df7373;
+}
+
+/* end head */
+
+/* menu-left */
+.menu-new {
+    position: absolute;
+    z-index: 8;
+    height: 400px;
+}
+.menu {
+    line-height: 16px;
+    position: relative;
+    padding: 0 0 0 0px;
+    height: 400px;
+    background-color: #fff;
+}
+.menu > li > .megadrop {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    list-style: none;
+    top: 0px;
+    left: 191px;
+    width: 100%;
+    min-height: 100%;
+
+    text-align: left;
+    margin-top: 30px;
+    padding: 0;
+    z-index: 99;
+    overflow: hidden;
+    
+    background: #fff;
+}
+.menu > li {
+    list-style: none;
+        
+     border-bottom: 0.5px solid #e2e2e2;
+     border-left: 0.5px solid #e2e2e2;
+   
+    padding: 7px;
+    
+
+    }
+    .menu .col {
+    width: 100%;
+    float: left;
+  
+    margin: 0 0 0 1%;
+}
+
+.menu > li >a{
+    text-decoration: none;
+    color: #333;
+    }
+/* end menu-left */
+/* index class="text-box-1" */
+.text-box-1{
+    margin-top: -60px; padding-bottom: 60px;
+}
+
+@media (max-width: 991px)
+{
+    .text-box-1{
+    margin-top: -50px; padding-bottom: 60px;
+}
+}
+@media (max-width: 767px)
+{
+    .text-box-1{
+    margin-top: -70px; padding-bottom: 60px;
+}
+}
+@media (max-width: 557px)
+{
+    .text-box-1{
+    margin-top: -57px; padding-bottom: 60px;
+}
+}
+@media (max-width:425px)
+{
+    .text-box-1{
+    margin-top: -50px; padding-bottom: 60px;
+}
+}
+@media (max-width:375px)
+{
+    .text-box-1{
+    margin-top: -40px; padding-bottom: 60px;
+}
+}
+/* end text box-1 */
+
+/* giảng viên tiêu biểu */
+
+/* end giảng viên tiêu biểu */

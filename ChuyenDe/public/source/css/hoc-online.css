@@ -1,0 +1,41 @@
+.tong {
+  margin-top: 20px; }
+
+.video {
+  padding: 5px; }
+
+.menu-hoc h4 {
+  font-weight: bold;
+  background-color: #3d4e5b;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+  box-shadow: 2px 2px;
+  border-radius: 10px 10px 0  0;
+  margin: 0px;
+  color: white; }
+.menu-hoc .menu-hoc-con {
+  box-shadow: 2px 2px;
+  margin: 0;
+  border: 1px solid #e7e7e7;
+  border-radius: 0  0 10px 10px;
+  padding-left: 10px;
+  padding-right: 10px; }
+  .menu-hoc .menu-hoc-con ul {
+    padding: 0;
+    list-style: none; }
+    .menu-hoc .menu-hoc-con ul a {
+      text-decoration: none;
+      color: black; }
+      .menu-hoc .menu-hoc-con ul a:hover{
+        color: blue;
+      }
+    .menu-hoc .menu-hoc-con ul li {
+      overflow: hidden;
+      border-bottom: 1px solid  #e7e7e7;
+      padding: 5px; }
+      .menu-hoc .menu-hoc-con ul li i {
+        margin-right: 5px; }
+
+/*# sourceMappingURL=hoc-online.css.map */

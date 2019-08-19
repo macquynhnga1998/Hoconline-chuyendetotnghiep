@@ -1,0 +1,8 @@
+.row .col-ms-3{
+	padding: 0;
+	background-color: red;
+}
+
+.row .col-ms-3 .well{
+	padding: 0;
+}
